@@ -2,7 +2,7 @@
     
     //Carga las configuraciones principales 
     require_once 'config.php';
-
+  
     //Establecemoslas librerias para cargar los controllers, las vistas y app.
     
     require_once 'libs/database.php';
