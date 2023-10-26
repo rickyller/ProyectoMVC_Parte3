@@ -53,6 +53,9 @@
                             <a class="nav-link" href="dashboard">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Dashboard
+                                <a class="nav-link" href="crud">
+                                <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
+                                Crud
                             </a>
                             <div class="sb-sidenav-menu-heading">Operaciones</div>
                             <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">

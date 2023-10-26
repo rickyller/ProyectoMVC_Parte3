@@ -11,6 +11,6 @@
     define('HOST', 'localhost');
     define('DB', 'sistemamvc');
     define('USER', 'root');
-    define('PASSWORD', "montse");
+    define('PASSWORD', "fichur1t0");
     define('CHARSET', 'utf8mb4');
 ?>
